@@ -9,9 +9,9 @@ import {
 import banner1 from "../../assets/images/1-1-1.png";
 import banner2 from "../../assets/images/1-1-2.png";
 import banner3 from "../../assets/images/1-1-3.png";
-import slider1 from "../../assets/images/slider1.jpg";
-import slider2 from "../../assets/images/slider2.jpg";
-import slider3 from "../../assets/images/slider3.jpg";
+import slider1 from "../../assets/images/slider1.webp";
+import slider2 from "../../assets/images/slider2.webp";
+import slider3 from "../../assets/images/slider3.webp";
 import CardComponent from "../../components/CardComponent/CardComponent";
 import { useQuery } from "@tanstack/react-query";
 import * as ProductService from "../../services/ProductService";
